@@ -9,9 +9,10 @@ function Products({name,price}) {
                <p> Product Price: {price}</p>
                <button> Add to Cart</button>
                <button> Remove from Cart</button>
-               <button> Buy Now</button>
+               <button> Buy Now</button> 
        </div>
-   );
+   );//buttons for adding and removing
+   //includes the name and price regarding the product
 }
 export default Products;
 //code for the products
