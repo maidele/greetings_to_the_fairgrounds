@@ -15,4 +15,4 @@ function App() {
    </div>//Displays name of product and price
  );
 }
-export default App;//imports greeting, product and reactc
+export default App;//imports greeting, product and react
