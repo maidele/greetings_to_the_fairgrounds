@@ -14,4 +14,4 @@ function Products({name,price}) {
    );
 }
 export default Products;
-//
+//code for the products
